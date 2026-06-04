@@ -6,11 +6,9 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>Christine's Miami Trip</h1>
-      <h2>Trip ideas</h2>
-    
-    <Calendar />
-  
+      <h1>Itinerary for 7 Days in Miami 🌴</h1>
+      <h2>Welcome to Miami, FL! Check out this calendar to plan your trip.</h2>
+      <Calendar />
     </div>
   )
 }
