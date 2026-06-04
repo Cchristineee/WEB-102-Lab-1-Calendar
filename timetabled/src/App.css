@@ -16,3 +16,56 @@
   min-width: 320px;
   min-height: 100vh;
 }
+
+.event-box {
+  padding: 0.75rem 1rem;
+  border-radius: 1rem;
+  color: white;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-align: center;
+  box-shadow: 0 12px 22px rgba(0, 0, 0, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+
+.event-box:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 16px 30px rgba(0, 0, 0, 0.14);
+}
+
+.event-box.pink {
+  background: linear-gradient(135deg, #ff8de9 0%, #ff5cbc 100%);
+}
+
+.event-box.blue {
+  background: linear-gradient(135deg, #5de0ff 0%, #2d8dff 100%);
+}
+
+.event-box.green {
+  background: linear-gradient(135deg, #7df7a8 0%, #28c76f 100%);
+}
+
+.event-box.purple {
+  background: linear-gradient(135deg, #cba1ff 0%, #8e5cff 100%);
+}
+
+.event-box.orange {
+  background: linear-gradient(135deg, #ffb347 0%, #ffcc33 100%);
+}
+
+.event-box.yellow {
+  background: linear-gradient(135deg, #fff176 0%, #ffeb3b 100%);
+}
+
+.event-box.red {
+  background: linear-gradient(135deg, #ff6e6e 0%, #ff3b3b 100%);
+}
+
+.event-box.fuchsia {
+  background: linear-gradient(135deg, #ff77ff 0%, #ff33ff 100%);
+}
+
+.event-box.cyan {
+  background: linear-gradient(135deg, #7ef9ff 0%, #3be0ff 100%);
+}
