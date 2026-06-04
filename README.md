@@ -14,20 +14,12 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] 
+* [ ] None :) 
 
-## Video Walkthrough
+## Screenshot 📸
+<img width="1407" height="685" alt="Screenshot 2026-06-04 at 12 01 18 PM" src="https://github.com/user-attachments/assets/c7f23c16-1371-46a0-9c14-984ed84d51b7" />
 
-Here's a walkthrough of implemented features:
-
-
-
-GIF created with LICEcap and converted from EZgif 
 <br>
-
-
-## Notes
-
 
 ## License
 
